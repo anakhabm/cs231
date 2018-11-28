@@ -1,3 +1,9 @@
+
+    
+    //ANAKHA BM
+    //ROLL_NO:6
+
+
 #include <stdio.h>
 
 int stack[100], n=100, top;

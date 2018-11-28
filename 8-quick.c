@@ -1,3 +1,9 @@
+        //ANAKHA BM
+        //ROLL_NO:6
+
+
+
+
 #include<stdio.h>
 void quicksort(int number[25],int first,int last){
    int i, j, pivot, temp;

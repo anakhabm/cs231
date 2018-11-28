@@ -1,3 +1,8 @@
+
+    
+    //ANAKHA BM
+    //ROLL_NO:6
+
 #include <stdio.h>
 #define MAX 30
 

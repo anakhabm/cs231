@@ -1,3 +1,8 @@
+   
+    //ANAKHA BM
+    //ROLL_NO:6
+
+
 #include<stdio.h>
 int arr[20]; 
 int merge_sort(int [],int,int);

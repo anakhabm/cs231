@@ -69,3 +69,104 @@ void main()
     }while(choice==1 || choice==2 || choice==3);
 
 }
+OUTPUT:
+
+
+     1.enqueue
+     2.dequeue
+     3.display
+     4.count
+     5.delete_all
+     6.exit
+     enter choice:1
+     enter data :4
+
+     1.enqueue
+     2.dequeue
+     3.display
+     4.count
+     5.delete_all
+     6.exit
+     enter choice:1
+     enter data :4
+
+     1.enqueue
+     2.dequeue
+     3.display
+     4.count
+     5.delete_all
+     6.exit
+     enter choice:1
+     enter data :6
+
+     1.enqueue
+     2.dequeue
+     3.display
+     4.count
+     5.delete_all
+     6.exit
+     enter choice:3
+       ->4  ->4  ->6
+     1.enqueue
+     2.dequeue
+     3.display
+     4.count
+     5.delete_all
+     6.exit
+     enter choice:2
+
+     enqueued elem is 4
+     1.enqueue
+     2.dequeue
+     3.display
+     4.count
+     5.delete_all
+     6.exit
+     enter choice:3
+       ->4  ->6
+     1.enqueue
+     2.dequeue
+     3.display
+     4.count
+     5.delete_all
+     6.exit
+     enter choice:4
+     no of elem in queue is 2
+     1.enqueue
+     2.dequeue
+     3.display
+     4.count
+     5.delete_all
+     6.exit
+     enter choice:5
+
+     1.enqueue
+     2.dequeue
+     3.display
+     4.count
+     5.delete_all
+     6.exit
+     enter choice:
+     1.enqueue
+     2.dequeue
+     3.display
+     4.count
+     5.delete_all
+     6.exit
+     enter choice:
+     1.enqueue
+     2.dequeue
+     3.display
+     4.count
+     5.delete_all
+     6.exit
+     enter choice:3
+
+     empty
+     1.enqueue
+     2.dequeue
+     3.display
+     4.count
+     5.delete_all
+     6.exit
+     enter choice:6

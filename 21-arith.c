@@ -42,3 +42,8 @@ void main()
         temp=temp->link;
     }    
 }
+OUTPUT:
+
+
+	Enter arithmatic expression : A+B+C
+	Entered experssion : A+B+C

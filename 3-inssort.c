@@ -35,3 +35,10 @@ int main(){
 
    return 0;
 }
+output:
+enter the size of the array: 2
+enter the elements of the array: 
+2
+3
+the sorted array is: 
+the sorted array is: 23

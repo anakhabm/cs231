@@ -78,3 +78,65 @@ void main()
         	}
     	}while(c==1 || c==2 || c==3 || c==4);
 }
+output:
+CHOOSE
+1.Insertion(begin)
+2.Insertion(end)
+3.Insertion(after key)
+4.Deletion
+5.Search
+6.Display
+Enter choice:1
+Enter data: 2
+
+CHOOSE
+1.Insertion(begin)
+2.Insertion(end)
+3.Insertion(after key)
+4.Deletion
+5.Search
+6.Display
+Enter choice:2
+Enter data: 3
+
+CHOOSE
+1.Insertion(begin)
+2.Insertion(end)
+3.Insertion(after key)
+4.Deletion
+5.Search
+6.Display
+Enter choice:3
+Enter key: 2
+Enter data: 4
+
+CHOOSE
+1.Insertion(begin)
+2.Insertion(end)
+3.Insertion(after key)
+4.Deletion
+5.Search
+6.Display
+Enter choice:4
+Enter key: 2
+
+CHOOSE
+1.Insertion(begin)
+2.Insertion(end)
+3.Insertion(after key)
+4.Deletion
+5.Search
+6.Display
+Enter choice:5
+Enter key: 3
+
+Element found at 2
+CHOOSE
+1.Insertion(begin)
+2.Insertion(end)
+3.Insertion(after key)
+4.Deletion
+5.Search
+6.Display
+Enter choice:6
+4   3   

@@ -125,3 +125,97 @@ void main()
         }
     }while(cho==1 || cho==2 || cho==3 || cho==4 || cho==5);
 }
+OUTPUT:
+
+	 Queue using array
+	1.Enqueue Front
+	2.Enqueue Rear
+	3.Dequeue Front
+	4.Dequeue Rear
+	5.Display
+	6.Exit
+	Enter your choice : 1
+	Enter data : 4
+
+		Queue using array
+	1.Enqueue Front
+	2.Enqueue Rear
+	3.Dequeue Front
+	4.Dequeue Rear
+	5.Display
+	6.Exit
+	Enter your choice : 2
+	Enter data : 5
+
+		Queue using array
+	1.Enqueue Front
+	2.Enqueue Rear
+	3.Dequeue Front
+	4.Dequeue Rear
+	5.Display
+	6.Exit
+	Enter your choice : 2
+	Enter data : 6
+
+		Queue using array
+	1.Enqueue Front
+	2.Enqueue Rear
+	3.Dequeue Front
+	4.Dequeue Rear
+	5.Display
+	6.Exit
+	Enter your choice : 5
+
+	Linked List
+	HEADER->4->5->6->NULL
+
+		Queue using array
+	1.Enqueue Front
+	2.Enqueue Rear
+	3.Dequeue Front
+	4.Dequeue Rear
+	5.Display
+	6.Exit
+	Enter your choice : 3
+
+		Queue using array
+	1.Enqueue Front
+	2.Enqueue Rear
+	3.Dequeue Front
+	4.Dequeue Rear
+	5.Display
+	6.Exit
+	Enter your choice : 5
+
+	Linked List
+	HEADER->5->6->NULL
+
+		Queue using array
+	1.Enqueue Front
+	2.Enqueue Rear
+	3.Dequeue Front
+	4.Dequeue Rear
+	5.Display
+	6.Exit
+	Enter your choice : 4
+
+		Queue using array
+	1.Enqueue Front
+	2.Enqueue Rear
+	3.Dequeue Front
+	4.Dequeue Rear
+	5.Display
+	6.Exit
+	Enter your choice : 5
+
+	Linked List
+	HEADER->5->NULL
+
+		Queue using array
+	1.Enqueue Front
+	2.Enqueue Rear
+	3.Dequeue Front
+	4.Dequeue Rear
+	5.Display
+	6.Exit
+	Enter your choice : 6

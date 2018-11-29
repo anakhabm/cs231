@@ -68,3 +68,11 @@ int main()
     return 0;
 
 }
+
+
+OUTPUT:
+Enter size of array:2
+Enter the elements of the array: 2
+3
+Enter the element to search for:3
+Element found at the position: 2

@@ -86,3 +86,7 @@ int main() {
   }
   printf("Final result : %d\n", operandStack[0]);
 }
+OUTPUT:
+
+  Enter the infix expression:1+2*3
+  7

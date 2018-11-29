@@ -129,3 +129,135 @@ void main()
         	}
     	}while(c==1 || c==2 || cc==4 || c==5 || c==6 || c==7 || c==8);
 }
+
+OUTPUT:
+
+
+	MENU
+	1.Insertion(begin)
+	2.Insertion(end)
+	3.Insertion(after key)
+	4.Deletion(begin)
+	5.Deletion(end)
+	6.Deletion(key)
+	7.Search
+	8.Display
+	Enter choice:1
+	Enter data: 4
+
+	MENU
+	1.Insertion(begin)
+	2.Insertion(end)
+	3.Insertion(after key)
+	4.Deletion(begin)
+	5.Deletion(end)
+	6.Deletion(key)
+	7.Search
+	8.Display
+	Enter choice:2
+	Enter data: 6
+
+	MENU
+	1.Insertion(begin)
+	2.Insertion(end)
+	3.Insertion(after key)
+	4.Deletion(begin)
+	5.Deletion(end)
+	6.Deletion(key)
+	7.Search
+	8.Display
+	Enter choice:3
+	Enter key: 4
+	Enter data: 5
+
+	MENU
+	1.Insertion(begin)
+	2.Insertion(end)
+	3.Insertion(after key)
+	4.Deletion(begin)
+	5.Deletion(end)
+	6.Deletion(key)
+	7.Search
+	8.Display
+	Enter choice:8
+	4 -> 5 -> 6 -> NULL
+	MENU
+	1.Insertion(begin)
+	2.Insertion(end)
+	3.Insertion(after key)
+	4.Deletion(begin)
+	5.Deletion(end)
+	6.Deletion(key)
+	7.Search
+	8.Display
+	Enter choice:4
+
+	MENU
+	1.Insertion(begin)
+	2.Insertion(end)
+	3.Insertion(after key)
+	4.Deletion(begin)
+	5.Deletion(end)
+	6.Deletion(key)
+	7.Search
+	8.Display
+	Enter choice:8
+	5 -> 6 -> NULL
+	MENU
+	1.Insertion(begin)
+	2.Insertion(end)
+	3.Insertion(after key)
+	4.Deletion(begin)
+	5.Deletion(end)
+	6.Deletion(key)
+	7.Search
+	8.Display
+	Enter choice:5
+
+	MENU
+	1.Insertion(begin)
+	2.Insertion(end)
+	3.Insertion(after key)
+	4.Deletion(begin)
+	5.Deletion(end)
+	6.Deletion(key)
+	7.Search
+	8.Display
+	Enter choice:8
+	5 -> NULL
+	MENU
+	1.Insertion(begin)
+	2.Insertion(end)
+	3.Insertion(after key)
+	4.Deletion(begin)
+	5.Deletion(end)
+	6.Deletion(key)
+	7.Search
+	8.Display
+	Enter choice:7
+	Enter key: 5
+
+	Element found at 1
+	MENU
+	1.Insertion(begin)
+	2.Insertion(end)
+	3.Insertion(after key)
+	4.Deletion(begin)
+	5.Deletion(end)
+	6.Deletion(key)
+	7.Search
+	8.Display
+	Enter choice:6
+	Enter key: 5
+
+	MENU
+	1.Insertion(begin)
+	2.Insertion(end)
+	3.Insertion(after key)
+	4.Deletion(begin)
+	5.Deletion(end)
+	6.Deletion(key)
+	7.Search
+	8.Display
+	Enter choice:8
+	NULL

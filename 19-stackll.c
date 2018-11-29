@@ -77,3 +77,45 @@ void display()
    }
 }    
     
+OUTPUT:
+
+
+	CHOOSE
+	1.PUSH
+	2.POP
+	3.DISPLAY
+	1
+	enter the element: 4
+
+	CHOOSE
+	1.PUSH
+	2.POP
+	3.DISPLAY
+	1
+	enter the element: 5
+
+	CHOOSE
+	1.PUSH
+	2.POP
+	3.DISPLAY
+	1
+	enter the element: 6
+
+	CHOOSE
+	1.PUSH
+	2.POP
+	3.DISPLAY
+	2
+	popped out: 6
+	CHOOSE
+	1.PUSH
+	2.POP
+	3.DISPLAY
+	2
+	popped out: 5
+	CHOOSE
+	1.PUSH
+	2.POP
+	3.DISPLAY
+	3
+	elements: 4 ->NULL

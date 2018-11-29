@@ -30,3 +30,7 @@ int main()
  
     return 0;
 }
+output:
+Enter the size of the array: 2 
+enter the elements: 2 3
+array after sorting: 2 3
